@@ -71,7 +71,7 @@
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__menu__ = __webpack_require__(1);
 
-var menu = __WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */](['Main', 'About me', 'Portfolio'], 'menu');
+var menu = __WEBPACK_IMPORTED_MODULE_0__menu__["a" /* default */](['Main', 'About me', 'Portfolio','Contacts'], 'menu');
 document.body.appendChild(menu);
 
 /***/ }),
